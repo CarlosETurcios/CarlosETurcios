@@ -1,6 +1,6 @@
 ### Hi there, I'm Carlos Turcios 👋
 
-<img src="https://media.giphy.com/media/nM6UGVL8Undh772p1J/giphy.gif">
+<img src = "https://media.giphy.com/media/nM6UGVL8Undh772p1J/giphy.gif">
 
 <!--
 **CarlosETurcios/CarlosETurcios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
