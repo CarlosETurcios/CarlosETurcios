@@ -3,7 +3,7 @@
 <img src = "https://media.giphy.com/media/nM6UGVL8Undh772p1J/giphy.gif"/>
 <video autoplay="autoplay" loop="loop" width="400" height="300"> 
  <source src="https://media.giphy.com/media/nM6UGVL8Undh772p1J/giphy.gif" /> 
- <img src="video.gif" width="400" height="300" /> 
+ <img src="https://media.giphy.com/media/nM6UGVL8Undh772p1J/giphy.gif" width="400" height="300" /> 
 </video> 
 <!--
 **CarlosETurcios/CarlosETurcios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
