@@ -1,7 +1,7 @@
 ### Hi there, I'm Carlos Turcios 👋
 
-<img src = "https://giphy.com/gifs/nM6UGVL8Undh772p1J/html5"/>
-<div style="width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/nM6UGVL8Undh772p1J" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nM6UGVL8Undh772p1J">via GIPHY</a></p>
+<img src = "https://media.giphy.com/media/XB96eCP2JbTFqZwwI7/giphy.gif"/>
+
 
 <!--
 **CarlosETurcios/CarlosETurcios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
