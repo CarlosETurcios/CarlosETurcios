@@ -1,6 +1,6 @@
 ### Hi there, I'm Carlos Turcios 👋
 
-<img src = "https://media.giphy.com/media/nM6UGVL8Undh772p1J/giphy.gif"/>
+<img src = "https://giphy.com/gifs/nM6UGVL8Undh772p1J/html5"/>
 <video autoplay="autoplay" loop="loop" width="400" height="300"> 
  <source src="https://media.giphy.com/media/nM6UGVL8Undh772p1J/giphy.gif" /> 
  <img src="https://media.giphy.com/media/nM6UGVL8Undh772p1J/giphy.gif" width="400" height="300" /> 
