@@ -1,4 +1,4 @@
-### Hi there, I'm Carlos Turcios 👋
+
 
 <img src = "https://media.giphy.com/media/XB96eCP2JbTFqZwwI7/giphy.gif"/>
 
