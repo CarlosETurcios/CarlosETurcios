@@ -1,6 +1,6 @@
 <img src = "https://media.giphy.com/media/XB96eCP2JbTFqZwwI7/giphy.gif"/>
 
-check out my linked in [Carlos Turcios](https://www.linkedin.com/in/carlos-turcios-b5051055)
+check out my linkedin [/linkedin.png](https://www.linkedin.com/in/carlos-turcios-b5051055)
 <!--
 **CarlosETurcios/CarlosETurcios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
