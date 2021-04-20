@@ -1,5 +1,6 @@
 <img src = "https://media.giphy.com/media/XB96eCP2JbTFqZwwI7/giphy.gif"/>
-Javascript, NodeJs, HTML, CSS, Python
+<p>Javascript, NodeJs, HTML, CSS, Python<p/>
+
 Check out my linkedIn [HERE](https://www.linkedin.com/in/carlos-turcios-b5051055)
 
 
