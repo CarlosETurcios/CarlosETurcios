@@ -1,5 +1,10 @@
 <img src = "https://media.giphy.com/media/XB96eCP2JbTFqZwwI7/giphy.gif"/>
-<p>JavaScript, Node.Js, HTML, CSS, Python.<p/>
+<p>JavaScript, Node.Js, HTML, CSS, Python, React,<p/>
+- 🔭 I’m currently working on rockband website
+- 🌱 I’m currently learning Electron
+- ⚡ Fun fact: I love to play music and play drums 
+
+
 
 Check out my linkedIn [HERE](https://www.linkedin.com/in/carlos-turcios-b5051055)
 
@@ -9,12 +14,11 @@ Check out my linkedIn [HERE](https://www.linkedin.com/in/carlos-turcios-b5051055
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+.
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
