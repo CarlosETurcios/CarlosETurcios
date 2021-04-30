@@ -7,6 +7,7 @@
 
 
 Check out my linkedIn [HERE](https://www.linkedin.com/in/carlos-turcios-b5051055)
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
 <!--
