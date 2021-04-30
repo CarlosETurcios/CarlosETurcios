@@ -6,7 +6,7 @@
 
 
 
-Check out my linkedIn      [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/carlos-turcios-b5051055)
+Check out my linkedIn  ---    [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/carlos-turcios-b5051055)
 
 
 
